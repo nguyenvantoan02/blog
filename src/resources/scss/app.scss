@@ -1,0 +1,20 @@
+@import 'variables';
+h1{
+    font-size: 24px;
+    color: $mau_den;
+   
+}
+.header{
+    background-color: $background-color-orange;
+    height: $height-50;
+}
+
+.container{
+    background-color: $background-color-purple;
+    height:  $height-100;
+}
+
+.footer{
+    background-color: $background-color-green;
+    height: $height-50;
+}

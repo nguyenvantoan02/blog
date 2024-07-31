@@ -1,0 +1,21 @@
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.header {
+  background-color: orange;
+  height: 50px;
+}
+
+.container {
+  background-color: purple;
+  height: 100px;
+}
+
+.footer {
+  background-color: green;
+  height: 50px;
+}
+
+/*# sourceMappingURL=app.css.map */
